@@ -5,7 +5,7 @@ Regular text
 - Bullet
 - Bullet
 
-  | Column | Column
-  -----------------
-  | Row    | Some text
-  | Row    | More text
+  | Column | Column     |
+  |--------|------------|
+  | Row    | Some text  |
+  | Row    | More text  |
