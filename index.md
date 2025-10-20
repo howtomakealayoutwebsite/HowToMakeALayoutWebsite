@@ -9,3 +9,5 @@ Regular text
   |--------|------------|
   | Row    | Some text  |
   | Row    | More text  |
+
+![Sampel Image](Background.png)
