@@ -1,6 +1,6 @@
 # Another Page
 Some text
 
-[Sample Model File](BrickFontL.stl)
+[Sample Model File](BrickFrontL.stl)
 
 [BACK](../index.md)
