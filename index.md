@@ -29,6 +29,10 @@ A public repository contains files that the public can see. Of course, the publi
 
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber created Markdown in 2004 as an easy-to-read markup language. Markdown is widely used for blogging, instant messaging, and large language models, and also used elsewhere in online forums, collaborative software, documentation pages, and readme files. 
 
+- [Getting started with writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+- [GitHub Flavored Markdown (GFM)](https://www.markdownlang.com/advanced/github.html)
+- [Learn GitHub-Flavored Markdown Syntax and Formatting – With Examples](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/)
+  
 [Link to another page](models/brew.md)
 
   | Column | Column     |
