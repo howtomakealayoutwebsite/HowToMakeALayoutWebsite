@@ -12,7 +12,7 @@
 - You can export HTML from Microsoft Word and other programs
 - _You can use Markdown_
 
-## Github (Free but Owned by Microsoft)
+## Github (Free but Owned by [Microsoft](https://en.wikipedia.org/wiki/Enshittification))
 
 - git is a free open version control tool invented by Linus Torvalds to control development of Linux
 - GitHub is a website interface for using git
