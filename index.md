@@ -7,7 +7,7 @@
 
 ## You need site content
 
-- You can learn archain technologies: Hyertext Markup Language (HTML) and Cascading Style Sheets (CSS)
+- You can learn archane technologies: Hyertext Markup Language (HTML) and Cascading Style Sheets (CSS)
 - You can use graphical site building tools like [Wordpress](https://wordpress.com), [Wix](https://www.wix.com), [Squarespace](https://www.squarespace.com), etc. that may require ongoind subscriptions
 - You can export HTML from Microsoft Word and other programs
 - _You can use Markdown_
