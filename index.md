@@ -24,6 +24,8 @@ A public repository contains files that the public can see. Of course, the publi
 - [How to Build a Free Website in Under 20 Minutes with GitHub Pages](https://www.linkedin.com/pulse/how-build-free-website-under-20-minutes-github-pages-daniel-murphy-mpeie/)
 - [GitHub Pages Walkthrough: Learn how to create a website directly from a GitHub repository](https://techie-joe.github.io/library/github-pages/)
 - [GitHub Pages: An Introductory Tutorial](https://builtin.com/software-engineering-perspectives/github-pages)
+
+  **GitHub does not support E-Comerce or payment processing but does allow asking for donations.**
   
 ## [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
