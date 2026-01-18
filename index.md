@@ -39,7 +39,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
   | Column | Column     |
   |--------|------------|
-  | Row    | Some text  |
+  | Row    | Nice content  |
   | Row    | More text  |
 
 ![Sampel Image](Background.png)
